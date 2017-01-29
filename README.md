@@ -12,8 +12,9 @@ The desired color is inputted from the user and it is easier to extract the diff
 ## Simulation
 https://youtu.be/5Wtbav7jfEo
 
-## Server IP
-http://35.160.157.71/
+## Get Started
+1. npm install
+2. node app.js
 
 ## Copyright and License
 Copyright 2013-2016 Blackrock Digital LLC. Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-stylish-portfolio/blob/gh-pages/LICENSE) license. & [W3school](http://www.w3schools.com/about/about_copyright.asp) license.
